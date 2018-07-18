@@ -52,5 +52,14 @@
     "priceCurrency": "EUR",
     "lat": 16.575527, 
     "lng": 120.417446
+  },
+    {
+    "id": 211,
+    "name": "Bahay namin!",
+    "imageUrl": "",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 16.607484, 
+    "lng": 120.352558
   }
 ]
