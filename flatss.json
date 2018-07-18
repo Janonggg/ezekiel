@@ -55,6 +55,15 @@
   },
     {
     "id": 211,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2017/01/La-Union-Tuddingan-Falls3.jpg",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.575527, 
+    "lng": 120.417446
+  },
+    {
+    "id": 211,
     "name": "Bahay namin!",
     "imageUrl": "https://github.com/Janonggg/ezekiel/blob/master/balaymi.png?raw=true",
     "price": 30,
