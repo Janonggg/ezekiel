@@ -1,0 +1,119 @@
+[
+ {
+    "id": 1,
+    "name": "Filipino Chinese Friendship Pagoda",
+    "imageUrl": "http://lh5.ggpht.com/_JhKhNDLfUnA/S2SkL0YxOFI/AAAAAAAAASw/JbN1FSOU8Hc/pagoda-hill.JPG",
+    "price": 10,
+    "priceCurrency": "PHP",
+    "lat": 16.614187, 
+    "lng": 120.319104
+     },
+      {
+    "id": 2,
+    "name": "Macho Temple",
+    "imageUrl": "http://media3.trover.com/T/56cab8077eb4f47a5a19f2ba/fixedw_large_4x.jpg",
+    "price": 10,
+    "priceCurrency": "PHP",
+    "lat": 16.621488, 
+    "lng": 120.317483
+  },
+  {
+    "id": 3,
+    "name": "Tangadan Falls",
+    "imageUrl": "https://1.bp.blogspot.com/-3KtZMezjWjQ/WZP8qsWU8EI/AAAAAAAALjA/LZQfGk_-wGMoggmZQdT2i9JwN46J6x7WgCLcBGAs/s1600/20170625_101530.jpg",
+    "price": 40,
+    "priceCurrency": "PHP",
+    "lat": 16.643809,
+    "lng": 120.448839
+  },
+  {
+    "id": 4,
+    "name": "Bahay na bato",
+    "imageUrl": "https://jamielibots.files.wordpress.com/2017/03/wp-1488502728086.jpg",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.847476, 
+    "lng": 120.351389
+  },
+  {
+    "id": 5,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://filipinojulian.files.wordpress.com/2010/08/sam_2260.jpg",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.588526, 
+    "lng": 120.314561
+  },
+  {
+    "id": 6,
+    "name": "Tudingan Falls",
+    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2017/01/La-Union-Tuddingan-Falls3.jpg",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.575527, 
+    "lng": 120.417446
+  },
+    {
+    "id": 7,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "http://1.bp.blogspot.com/-OPIv75Z03B4/UiS2VTdbrZI/AAAAAAAABn8/uyM76NlrM4M/s1600/DSC05077.JPG",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.857059, 
+    "lng": 120.372813
+  },
+    {
+    "id": 8,
+    "name": "Christ the Redeemer Statue",
+    "imageUrl": "https://1.bp.blogspot.com/-KysxsGRzUds/UxwAyo0PRRI/AAAAAAAAFjU/12N7So0-QjQ/s1600/P1140187.JPG",
+    "price": 10,
+    "priceCurrency": "PHP",
+    "lat": 16.620772, 
+    "lng": 120.319031
+  },
+    {
+    "id": 9,
+    "name": "Tapuakan River Park",
+    "imageUrl": "http://www.livibautista.com/wp-content/uploads/2015/12/12401744_1686583621599124_2186086505807024515_o.jpg",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.321322, 
+    "lng": 120.481241
+  },
+    {
+    "id": 10,
+    "name": "La Union Botanical and Zoological Garden",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.587632,
+    "lng":  120.365912
+  },
+    {
+    "id": 11,
+    "name": "Bacsil Ridge",
+    "imageUrl": "http://2.bp.blogspot.com/-GnPQI2CB59Y/U9pQ0XLnAWI/AAAAAAAAFRY/aSKFbRdKKPo/s1600/Bacsil+Ridge+(1).jpg",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.618700,
+    "lng": 120.363239
+  },
+      {
+    "id": 12,
+    "name": "USAFFE-NL Military Shrine and Park",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=s1600-w400",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.821212, 
+    "lng": 120.335553
+  },
+  {
+    "id": 13,
+    "name": "Bahay namin!",
+    "imageUrl": "https://github.com/Janonggg/ezekiel/blob/master/balaymi.png?raw=true",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.607484, 
+    "lng": 120.352558
+  }
+]
