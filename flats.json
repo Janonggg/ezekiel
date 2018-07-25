@@ -9,110 +9,98 @@
    },
    {
     "id": 2,
-    "name": "Macho Temple",
-    "imageUrl": "http://media3.trover.com/T/56cab8077eb4f47a5a19f2ba/fixedw_large_4x.jpg",
-    "price": 10,
-    "priceCurrency": "PHP",
-    "lat": 16.621488, 
-    "lng": 120.317483
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://www.gettingstamped.com/wp-content/uploads/2016/02/Things-to-do-in-El-Nido-Philippines-matinloc-shrine-El-Nido-Tour-C-1-800x530.jpg",
+    "distance": 894,
+    "lat": 11.211505, 
+    "lng": 119.462749
   },
   {
     "id": 3,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://1.bp.blogspot.com/-3KtZMezjWjQ/WZP8qsWU8EI/AAAAAAAALjA/LZQfGk_-wGMoggmZQdT2i9JwN46J6x7WgCLcBGAs/s1600/20170625_101530.jpg",
-    "price": 40,
-    "priceCurrency": "PHP",
-    "lat": 16.643809,
-    "lng": 120.448839
+    "name": "Chocolate hills",
+    "imageUrl": "https://d36tnp772eyphs.cloudfront.net/blogs/1/2017/09/chocolate-hills-thumb-clean-1200x720.jpg",
+    "distance": 1199,
+    "lat": 9.829618, 
+    "lng": 124.139701
   },
   {
     "id": 4,
-    "name": "Bahay na bato",
-    "imageUrl": "https://jamielibots.files.wordpress.com/2017/03/wp-1488502728086.jpg",
-    "price": 50,
-    "priceCurrency": "PHP",
-    "lat": 16.847476, 
-    "lng": 120.351389
+    "name": "Vigan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Calle_Crisologo%2C_Vigan_City%2C_Ilocos_Sur.JPG",
+    "distance": 140,
+    "lat": 17.570493, 
+    "lng": 120.387343
   },
   {
     "id": 5,
-    "name": "Pindangan Ruins",
-    "imageUrl": "https://filipinojulian.files.wordpress.com/2010/08/sam_2260.jpg",
-    "price": 20,
-    "priceCurrency": "PHP",
-    "lat": 16.588526, 
-    "lng": 120.314561
+    "name": "Tagaytay",
+    "imageUrl": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/10/ccimage-shutterstock_276193067.jpg",
+    "distance": 342,
+    "lat": 14.115360,
+    "lng": 120.962119
   },
   {
     "id": 6,
-    "name": "Tudingan Falls",
-    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2017/01/La-Union-Tuddingan-Falls3.jpg",
-    "price": 50,
-    "priceCurrency": "PHP",
-    "lat": 16.575527, 
-    "lng": 120.417446
+    "name": "Puerto Galera, Oriental Mindoro",
+    "imageUrl": "http://newsinfo.inquirer.net/files/2018/04/30galera.jpg",
+    "distance": 413,
+    "lat": 13.501965,
+    "lng": 120.954100
   },
     {
     "id": 7,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "http://1.bp.blogspot.com/-OPIv75Z03B4/UiS2VTdbrZI/AAAAAAAABn8/uyM76NlrM4M/s1600/DSC05077.JPG",
-    "price": 50,
-    "priceCurrency": "PHP",
-    "lat": 16.857059, 
-    "lng": 120.372813
+    "name": "Banaue, Ifugao",
+    "imageUrl": "http://media.philstar.com/images/articles/tour1_2018-06-28_18-33-03.jpg",
+    "distance": 365,
+    "lat": 16.951437, 
+    "lng": 121.103548
   },
     {
     "id": 8,
-    "name": "Christ the Redeemer Statue",
-    "imageUrl": "https://1.bp.blogspot.com/-KysxsGRzUds/UxwAyo0PRRI/AAAAAAAAFjU/12N7So0-QjQ/s1600/P1140187.JPG",
-    "price": 10,
-    "priceCurrency": "PHP",
-    "lat": 16.620772, 
-    "lng": 120.319031
+    "name": "Subic Bay, Zambales",
+    "imageUrl": "https://4btuu042fbqw3r2gen1rt2ok-wpengine.netdna-ssl.com/wp-content/uploads/sites/8/2017/08/Subic-Bay-Tourist-Spot.jpg",
+    "distance": 264,
+    "lat": 14.904632,
+    "lng": 120.222152
   },
     {
     "id": 9,
-    "name": "Tapuakan River Park",
-    "imageUrl": "http://www.livibautista.com/wp-content/uploads/2015/12/12401744_1686583621599124_2186086505807024515_o.jpg",
-    "price": 50,
-    "priceCurrency": "PHP",
-    "lat": 16.321322, 
-    "lng": 120.481241
+    "name": "Bangui Windmills, Ilocos Norte",
+    "imageUrl": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/8EC23E22D9114DF581CB81B9E5222F2C/north-wind-power-bangui.jpg",
+    "distance": 278,
+    "lat": 18.528011, 
+    "lng": 120.723980
   },
     {
     "id": 10,
-    "name": "La Union Botanical and Zoological Garden",
-    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
-    "price": 30,
-    "priceCurrency": "PHP",
-    "lat": 16.587632,
-    "lng":  120.365912
+    "name": " Coron, Palawan",
+    "imageUrl": "https://www.journeyera.com/wp-content/uploads/2016/11/coron-palawan-image-04908.jpg",
+    "distance": 723,
+    "lat": 12.067602,
+    "lng": 120.181740
   },
     {
     "id": 11,
-    "name": "Bacsil Ridge",
-    "imageUrl": "http://2.bp.blogspot.com/-GnPQI2CB59Y/U9pQ0XLnAWI/AAAAAAAAFRY/aSKFbRdKKPo/s1600/Bacsil+Ridge+(1).jpg",
-    "price": 20,
-    "priceCurrency": "PHP",
-    "lat": 16.618700,
-    "lng": 120.363239
+    "name": "Siquijor",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-505768093.png",
+    "price": 1246,
+    "lat": 9.198510,
+    "lng": 123.595008
   },
       {
     "id": 12,
-    "name": "USAFFE-NL Military Shrine and Park",
+    "name": "Catanduanes",
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=s1600-w400",
-    "price": 30,
-    "priceCurrency": "PHP",
-    "lat": 16.821212, 
-    "lng": 120.335553
+    "price": 830,
+    "lat": 13.595225, 
+    "lng": 124.157430
   },
   {
     "id": 13,
-    "name": "Bahay namin!",
+    "name": "Mount Pulag, Luzon",
     "imageUrl": "https://github.com/Janonggg/ezekiel/blob/master/balaymi.png?raw=true",
-    "price": 30,
-    "priceCurrency": "PHP",
-    "lat": 16.607484, 
-    "lng": 120.352558
+    "destination": 133,
+    "lat": 16.597440, 
+    "lng": 120.899165
   }
 ]
