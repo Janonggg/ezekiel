@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Siquijor",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-505768093.png",
-    "price": 1246,
+    "distance": 1246,
     "lat": 9.198510,
     "lng": 123.595008
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Catanduanes",
     "imageUrl": "https://i2.wp.com/www.discovermnl.com/wp-content/uploads/2017/07/DiscoverMNL-Day-2-9.jpg?fit=665%2C443",
-    "price": 830,
+    "distance": 830,
     "lat": 13.595225, 
     "lng": 124.157430
   },
@@ -99,8 +99,24 @@
     "id": 13,
     "name": "Mount Pulag, Luzon",
     "imageUrl": "http://www.trailadventours.com/images/0644de6c228aeed128ecc4cfcfb90e62.jpg",
-    "destination": 133,
+    "distance": 133,
     "lat": 16.597440, 
     "lng": 120.899165
+  },
+   {
+    "id": 14,
+    "name": "Mayon Volcano, Albay",
+    "imageUrl": "https://volcanocafe.files.wordpress.com/2013/07/mayon_by_sinjin_pineda.jpg",
+    "distance": 765,
+    "lat": 13.255942,
+    "lng": 123.690776
+  },
+    {
+    "id": 15,
+    "name": "Manjuyod Sandbar",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/8741292350_b7352ec3b8_b.jpg",
+    "distance": 1164,
+    "lat": 9.618825, 
+    "lng": 123.169513
   }
 ]
