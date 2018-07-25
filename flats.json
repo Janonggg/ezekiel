@@ -1,11 +1,10 @@
 [
  {
     "id": 1,
-    "name": "Boracaaaay",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Boracay_Island%2C_Philippines_-_panoramio.jpg",
-    "distance": 716,
-    "lat": 11.967406, 
-    "lng": 121.924828
+    "name": "Bahay namin",
+    "imageUrl": "https://github.com/Janonggg/ezekiel/blob/master/balaymi.png?raw=true",
+    "lat": 16.607511, 
+    "lng": 120.352605
    },
    {
     "id": 2,
