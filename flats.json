@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Bahay namin",
     "imageUrl": "https://github.com/Janonggg/ezekiel/blob/master/balaymi.png?raw=true",
-    "distance":0,
+    "distance":"--",
     "lat": 16.607511, 
     "lng": 120.352605
    },
