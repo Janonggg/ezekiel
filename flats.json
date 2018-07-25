@@ -1,5 +1,12 @@
 [
-
+ {
+    "id": 1,
+    "name": "Boracay",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Boracay_Island%2C_Philippines_-_panoramio.jpg",
+    "distance": 716,
+    "lat": 11.967406, 
+    "lng": 121.924828,
+   },
    {
     "id": 2,
     "name": "Macho Temple",
