@@ -1,0 +1,106 @@
+[
+ {
+    "id": 1,
+    "name": "Boracaaaay",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Boracay_Island%2C_Philippines_-_panoramio.jpg",
+    "distance": 716,
+    "lat": 11.967406, 
+    "lng": 121.924828
+   },
+   {
+    "id": 2,
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://www.gettingstamped.com/wp-content/uploads/2016/02/Things-to-do-in-El-Nido-Philippines-matinloc-shrine-El-Nido-Tour-C-1-800x530.jpg",
+    "distance": 894,
+    "lat": 11.211505, 
+    "lng": 119.462749
+  },
+  {
+    "id": 3,
+    "name": "Chocolate hills",
+    "imageUrl": "https://d36tnp772eyphs.cloudfront.net/blogs/1/2017/09/chocolate-hills-thumb-clean-1200x720.jpg",
+    "distance": 1199,
+    "lat": 9.829618, 
+    "lng": 124.139701
+  },
+  {
+    "id": 4,
+    "name": "Vigan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Calle_Crisologo%2C_Vigan_City%2C_Ilocos_Sur.JPG",
+    "distance": 140,
+    "lat": 17.570493, 
+    "lng": 120.387343
+  },
+  {
+    "id": 5,
+    "name": "Tagaytay",
+    "imageUrl": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/10/ccimage-shutterstock_276193067.jpg",
+    "distance": 342,
+    "lat": 14.115360,
+    "lng": 120.962119
+  },
+  {
+    "id": 6,
+    "name": "Puerto Galera, Oriental Mindoro",
+    "imageUrl": "http://newsinfo.inquirer.net/files/2018/04/30galera.jpg",
+    "distance": 413,
+    "lat": 13.501965,
+    "lng": 120.954100
+  },
+    {
+    "id": 7,
+    "name": "Banaue, Ifugao",
+    "imageUrl": "http://media.philstar.com/images/articles/tour1_2018-06-28_18-33-03.jpg",
+    "distance": 365,
+    "lat": 16.951437, 
+    "lng": 121.103548
+  },
+    {
+    "id": 8,
+    "name": "Subic Bay, Zambales",
+    "imageUrl": "https://4btuu042fbqw3r2gen1rt2ok-wpengine.netdna-ssl.com/wp-content/uploads/sites/8/2017/08/Subic-Bay-Tourist-Spot.jpg",
+    "distance": 264,
+    "lat": 14.904632,
+    "lng": 120.222152
+  },
+    {
+    "id": 9,
+    "name": "Bangui Windmills, Ilocos Norte",
+    "imageUrl": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/8EC23E22D9114DF581CB81B9E5222F2C/north-wind-power-bangui.jpg",
+    "distance": 278,
+    "lat": 18.528011, 
+    "lng": 120.723980
+  },
+    {
+    "id": 10,
+    "name": " Coron, Palawan",
+    "imageUrl": "https://www.journeyera.com/wp-content/uploads/2016/11/coron-palawan-image-04908.jpg",
+    "distance": 723,
+    "lat": 12.067602,
+    "lng": 120.181740
+  },
+    {
+    "id": 11,
+    "name": "Siquijor",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-505768093.png",
+    "price": 1246,
+    "lat": 9.198510,
+    "lng": 123.595008
+  },
+      {
+    "id": 12,
+    "name": "Catanduanes",
+    "imageUrl": "https://i2.wp.com/www.discovermnl.com/wp-content/uploads/2017/07/DiscoverMNL-Day-2-9.jpg?fit=665%2C443",
+    "price": 830,
+    "lat": 13.595225, 
+    "lng": 124.157430
+  },
+  {
+    "id": 13,
+    "name": "Mount Pulag, Luzon",
+    "imageUrl": "http://www.trailadventours.com/images/0644de6c228aeed128ecc4cfcfb90e62.jpg",
+    "destination": 133,
+    "lat": 16.597440, 
+    "lng": 120.899165
+  }
+]
