@@ -1,15 +1,13 @@
 [
  {
     "id": 1,
-    "name": "Filipino Chinese Friendship Pagoda",
-    "imageUrl": "http://lh5.ggpht.com/_JhKhNDLfUnA/S2SkL0YxOFI/AAAAAAAAASw/JbN1FSOU8Hc/pagoda-hill.JPG",
-    "price": 10,
-    "priceCurrency": "PHP",
-    "lat": 16.614187, 
-    "lng": 120.319104,
-    "info":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
-     },
-      {
+    "name": "Boracay",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Boracay_Island%2C_Philippines_-_panoramio.jpg",
+    "distance": 716,
+    "lat": 11.967406, 
+    "lng": 121.924828,
+   },
+   {
     "id": 2,
     "name": "Macho Temple",
     "imageUrl": "http://media3.trover.com/T/56cab8077eb4f47a5a19f2ba/fixedw_large_4x.jpg",
